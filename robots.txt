@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://romelelidolo.com/sitemap.xml
